@@ -133,6 +133,7 @@
   "FIELD_VARIABLE": "משתנה",
   "FIELD_RANDOM": "אקראי",
   "FIELD_SET_TO": "עדכן אל",
+  "FIELD_ELSE": "אחרת",
 
   "// 7": "גלריית נכסים ---------------------------------------------",
   "ASSET_SEARCH": "חפש...",
@@ -227,6 +228,7 @@
   "MENU_NEW_PROJECT": "פרוייקט חדש",
   "MENU_OPEN": "פתח...",
   "MENU_SAVE": "שמור",
+  "MENU_SAVE_AS": "שמור אל...",
   "MENU_EDIT": "ערוך",
   "MENU_UNDO": "בטל",
   "MENU_REDO": "חזור",
@@ -247,6 +249,7 @@
   "MENU_THEME_DEFAULT": "ברירת מחדל המערכת",
   "MENU_THEME_LIGHT": "בהיר",
   "MENU_THEME_DARK": "כהה",
+  "MENU_LANGUAGE": "שפה",
   "MENU_SHOW_COLLISIONS": "הראה התנגשויות",
   "MENU_SHOW_CONNECTIONS": "הראה חיבורים",
   "MENU_ZOOM_RESET": "גודל בפועל",
@@ -261,6 +264,8 @@
   "MENU_RENAME_EVENT": "שנה שם אירוע",
   "MENU_PASTE_VALUES": "הדבק ערכים",
   "MENU_PASTE_EVENT_BEFORE": "הדבר אירוע לפני",
+  "MENU_PASTE_EVENT": "הדבק אירוע",
+  "MENU_REPLACE_EVENT": "החלף אירוע",
   "MENU_PASTE_EVENT_AFTER": "הדבר אירוע אחרי",
   "MENU_DELETE_EVENT": "מחק אירוע",
   "MENU_COPY_SCRIPT": "העתק תסריט",
@@ -317,7 +322,7 @@
   "SCRIPT_LINE": "שורה",
   "SCRIPT_LINES": "שורות",
   "SCRIPT_WORD": "מילה",
-  "SCRIPT_WORDS": "מילים"
+  "SCRIPT_WORDS": "מילים",
 
     "// 15": "קופסאות דיאלוג ------------------------------------------------------",
 
